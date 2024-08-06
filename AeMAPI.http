@@ -1,0 +1,6 @@
+@AeMAPI_HostAddress = http://localhost:5221
+
+GET {{AeMAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
